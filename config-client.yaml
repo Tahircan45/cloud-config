@@ -1,0 +1,3 @@
+baseDataUri: "http://localhost"
+fetchInterval: "00:05:00"
+test: 123456
