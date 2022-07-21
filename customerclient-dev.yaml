@@ -1,3 +1,3 @@
-baseDataUri: "http://localhost"
+baseDataUri: "localhost:8484/mytestdb;"
 fetchInterval: "00:05:00"
 test: 123456
